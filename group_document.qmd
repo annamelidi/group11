@@ -8,7 +8,7 @@ hello
 
 # Alex
 # don't ever pUll, only push
-
+#erhj
 # Kledi
 1+2
 print("suffering is inevitable")
