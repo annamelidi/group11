@@ -1,21 +1,54 @@
 # Orla
 
+# what is happening
+=======
+
 # 
+78d841d457fac0997642066c8495844526155898
+
 
 # Laura
+# adding my branch new
+=======
+=======
+
+# Laura
+# Laura's branch is not working
 
 # 
 
 # Alex
+
 # don't ever pUll, only push
 
+#erhj
+=======
+
+#New
+=======
+# Github is weird 
+# New analysis
+
+
 # Kledi
+
+
+1+2 print("suffering is inevitable")
+
+
 1+2
 print("suffering is inevitable")
-# Anna
+### New oof
+print("OOOF")
 
+ \# Anna 
+ 
 ```{r}
 print(" Ho ho ho :) ")
 ```
 
-# 
+## New feature
+
+```{r}
+print("NEW")
+```
