@@ -7,6 +7,7 @@
 # 
 
 # Alex
+# don't ever pUll, only push
 
 # Kledi
 
