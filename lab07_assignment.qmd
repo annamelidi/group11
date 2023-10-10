@@ -9,7 +9,19 @@ editor: visual
 Quarto enables you to weave together content and executable code into a finished document. To learn more a
 
 ```{r}
-1 + 1
+#| label: Loading libraries
+
+library("tidyverse")
+library("patchwork") #for plotting plots together (plo1/plot2)
+library("ggridges")
+#library("viridis")
+library("dplyr")
+library("table1") #describing a cohort
+library("stringr") #count the number of occurrences of a given character in a string
+library("ggseqlogo") #to create sequence logos
+library("readr")
+library("broom")
+library("purrr")
 ```
 
 ```{r}
