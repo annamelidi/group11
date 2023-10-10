@@ -1,6 +1,6 @@
 1. Python
 2. SQL
-3. R
+3. C
 4. VBA (Visual Basic for Applications)
 5. Julia
 6. JavaScript
