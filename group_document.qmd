@@ -7,9 +7,11 @@
 # 
 
 # Alex
+# don't ever pUll, only push
 
 # Kledi
-
+1+2
+print("suffering is inevitable")
 # Anna
 
 ```{r}
