@@ -10,7 +10,7 @@ Quarto enables you to weave together content and executable code into a finished
 
 ```{r}
 #| label: Loading libraries
-
+install.packages('cowplot')
 library("tidyverse")
 library("patchwork") #for plotting plots together (plo1/plot2)
 library("ggridges")
@@ -22,6 +22,7 @@ library("ggseqlogo") #to create sequence logos
 library("readr")
 library("broom")
 library("purrr")
+library("cowplot")
 ```
 
 ```{r}
@@ -43,5 +44,5 @@ pca_fit %>%
   scale_color_manual(
     values = c(malignant = "#D55E00", benign = "#0072B2")
   ) +
-  theme_half_open(12) + background_grid()
+  theme_cowplot(12) + background_grid()
 ```
