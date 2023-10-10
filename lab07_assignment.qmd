@@ -47,7 +47,8 @@ pca_fit %>%
   theme_cowplot(12) + background_grid()
 ```
 
-Finally, we’ll plot the variance explained by each PC. We can again extract this information using the tidy() function from broom, now by setting the matrix argument to matrix = "eigenvalues".
+Finally, we'll plot the variance explained by each PC. We can again extract this information using the tidy() function from broom, now by setting the matrix argument to matrix = "eigenvalues".
+
 ```{r}
 pca_fit %>%
   tidy(matrix = "eigenvalues") %>%
@@ -60,4 +61,3 @@ pca_fit %>%
   ) +
   theme_minimal_hgrid(12)
 ```
-
