@@ -9,7 +9,8 @@
 # Alex
 
 # Kledi
-
+1+2
+print("suffering is inevitable")
 # Anna
 
 # 
