@@ -47,6 +47,15 @@ pca_fit %>%
   theme_cowplot(12) + background_grid()
 ```
 
+
+```{r}
+# extract rotation matrix
+pca_fit %>%
+  tidy(matrix = "rotation")
+```
+
+
+
 Finally, we'll plot the variance explained by each PC. We can again extract this information using the tidy() function from broom, now by setting the matrix argument to matrix = "eigenvalues".
 
 ```{r}
