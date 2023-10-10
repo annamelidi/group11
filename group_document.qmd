@@ -1,6 +1,11 @@
 # Orla
+<<<<<<< HEAD
 hello
 # what is happening
+=======
+
+# 
+>>>>>>> 78d841d457fac0997642066c8495844526155898
 
 # Laura
 
@@ -8,7 +13,7 @@ hello
 
 # Alex
 # don't ever pUll, only push
-
+# New analysis
 # Kledi
 1+2
 print("suffering is inevitable")
