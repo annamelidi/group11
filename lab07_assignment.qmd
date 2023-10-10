@@ -1,0 +1,13 @@
+---
+title: "Assignment Week 7"
+format: html
+editor: visual
+---
+
+## Week 7: Collaborative Bio Data Science using GitHub via RStudio
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more a
+
+```{r}
+1 + 1
+```
