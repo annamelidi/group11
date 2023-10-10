@@ -1,6 +1,5 @@
 # Orla
-<<<<<<< HEAD
-hello
+
 # what is happening
 =======
 
