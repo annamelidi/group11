@@ -1,17 +1,22 @@
 # Orla
 
-# 
-
 # Laura
-
+# Laura's branch is not working
 # 
 
 # Alex
 # don't ever pUll, only push
+
 #New
+=======
+# Github is weird 
+# New analysis
+
 # Kledi
 1+2
 print("suffering is inevitable")
+### New oof
+print("OOOF")
 # Anna
 
 ```{r}
