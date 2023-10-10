@@ -11,3 +11,7 @@ Quarto enables you to weave together content and executable code into a finished
 ```{r}
 1 + 1
 ```
+
+```{r}
+biopsy <- read_csv("https://wilkelab.org/classes/SDS348/data_sets/biopsy.csv")
+```
